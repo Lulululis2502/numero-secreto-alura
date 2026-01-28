@@ -1,0 +1,5 @@
+git init (inicia repositório localmente)
+git add . (adiciona todos os arquivos)
+git commit -m "projeto inicial" (envia commit de tudo que foi alterado)
+git remote add origin git@github.com:SEU_USUARIO/SEU_REPOSITORIO (adiciona a repositório github)
+git push -u origin main (sobe para o repositorio do github)
